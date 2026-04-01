@@ -7,5 +7,6 @@ Tecnologias
 Linguagem C (nível acadêmico)
 JavaScript (básico)
 Ruby (básico)
-Contato
+
+# Contato
 LinkedIn: linkedin.com/in/arthur-pozzeti
